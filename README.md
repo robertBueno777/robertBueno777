@@ -200,7 +200,7 @@ robert@system:~$ cat experience.log
 </div>
 
 ```
-robert@system:~$ echo "Meus objetivos para 2025..."
+robert@system:~$ echo "Meus objetivos para 2026..."
 ```
 
 <div align="center">
@@ -213,7 +213,7 @@ robert@system:~$ echo "Meus objetivos para 2025..."
 │    └─ Microserviços, Event-Driven Architecture, DDD         │
 │                                                             │
 │ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░ 60%   │
-          │                                                   │
+│                                                             │
 │ 🔒 Dominar Segurança e Performance em APIs                 │
 │    └─ OAuth2, JWT, Caching, Load Balancing                  │
 │                                                             │
@@ -387,7 +387,6 @@ robert@system:~$ ./motivate.sh
 └────────────────────────────────────────┘
 
 Construindo o futuro, um commit por vez. 🚀
-Seu próximo grande projeto começa aqui.
 ```
 
 <br>
