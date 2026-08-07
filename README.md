@@ -207,9 +207,9 @@ robert@system:~$ echo "Meus objetivos para 2026..."
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░45%│
+│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 45%│
 │                                                             │
-│ ✨ Aprofundar em Arquitetura de Software Avançada           │
+│ ✨ Aprofundar em Arquitetura de Software Avançada           | 
 │    └─ Microserviços, Event-Driven Architecture, DDD         │
 │                                                             │
 │ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░ 60%   │
@@ -217,14 +217,14 @@ robert@system:~$ echo "Meus objetivos para 2026..."
 │ 🔒 Dominar Segurança e Performance em APIs                 │
 │    └─ OAuth2, JWT, Caching, Load Balancing                  │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░] 70%  │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░  70%  │
 │                                                             │
 │ 🐳 Explorar Containerização e Orquestração                 │
 │    └─ Docker, Kubernetes, CI/CD Pipelines                   │
 │                                                             │
 │ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%  │
 │                                                             │
-│ 🌐 Contribuir em Projetos Open Source                       │
+│ 🌐 Contribuir em Projetos Open Source                      │
 │    └─ Demonstrar expertise e expandir network               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
