@@ -192,89 +192,6 @@ robert@system:~$ cat experience.log
 
 ---
 
-<!-- PROJETOS DESTAQUE -->
-<div align="center">
-
-## 🏆 PROJETOS DESTAQUE
-
-</div>
-
-```
-robert@system:~$ ls -la /projects/featured/
-```
-
-<div align="center">
-
-### 📦 PORTFOLIO DE PROJETOS
-
-</div>
-
-<table align="center">
-
-<tr>
-<td align="center" width="500">
-
-<h3>🔗 Integração SEFAZ</h3>
-
-**Full Stack | C# | .NET Core | SQL Server**
-
-Sistema crítico de integração com órgãos governamentais, responsável por processamento de transações de alta complexidade.
-
-```
-Versão: 1.2.0
-Status: ✅ Produção
-Uptime: 99.8%
-```
-
-[📂 Ver Projeto →](#)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="500">
-
-<h3>⚙️ API REST Escalável</h3>
-
-**ASP.NET MVC | Entity Framework | Design Patterns**
-
-API robusta implementando arquitetura em camadas com padrões de design SOLID e repository pattern.
-
-```
-Endpoints: 45+
-Tests: 120+
-Coverage: 92%
-```
-
-[📂 Ver Projeto →](#)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="500">
-
-<h3>💾 Dashboard de Dados</h3>
-
-**Frontend | HTML/CSS/JS | Bootstrap**
-
-Interface responsiva para visualização e manipulação de dados com filtros avançados e exportação.
-
-```
-Performance: A+ (Lighthouse)
-Responsivo: Mobile First
-Acessibilidade: WCAG 2.1
-```
-
-[📂 Ver Projeto →](#)
-
-</td>
-</tr>
-
-</table>
-
----
-
 <!-- OBJETIVOS ATUAIS -->
 <div align="center">
 
@@ -290,25 +207,25 @@ robert@system:~$ echo "Meus objetivos para 2025..."
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 45%  │
+│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░45%│
 │                                                             │
 │ ✨ Aprofundar em Arquitetura de Software Avançada           │
-│    └─ Microserviços, Event-Driven Architecture, DDD       │
+│    └─ Microserviços, Event-Driven Architecture, DDD         │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 60%  │
-│                                                             │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░ 60%   │
+          │                                                   │
 │ 🔒 Dominar Segurança e Performance em APIs                 │
-│    └─ OAuth2, JWT, Caching, Load Balancing               │
+│    └─ OAuth2, JWT, Caching, Load Balancing                  │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 70%  │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░] 70%  │
 │                                                             │
 │ 🐳 Explorar Containerização e Orquestração                 │
-│    └─ Docker, Kubernetes, CI/CD Pipelines                │
+│    └─ Docker, Kubernetes, CI/CD Pipelines                   │
 │                                                             │
-│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 20%  │
+│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%  │
 │                                                             │
-│ 🌐 Contribuir em Projetos Open Source                      │
-│    └─ Demonstrar expertise e expandir network             │
+│ 🌐 Contribuir em Projetos Open Source                       │
+│    └─ Demonstrar expertise e expandir network               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -441,16 +358,8 @@ robert@system:~$ git log --graph --oneline
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/robertBueno7777">
+<a href="https://github.com/robertBueno777">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://wa.me/5567998712777">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 </div>
@@ -458,15 +367,6 @@ robert@system:~$ git log --graph --oneline
 <br>
 
 ---
-
-<!-- CITAÇÃO DE MOTIVAÇÃO -->
-<div align="center">
-
-> ### *"A qualidade não é um ato, é um hábito. A excelência de código não é uma exceção, é a regra."*
->
-> — Robert Bueno 💻⚡
-
-</div>
 
 <br>
 
@@ -495,7 +395,7 @@ Seu próximo grande projeto começa aqui.
 ### ⭐ Se meu perfil foi útil, deixe uma estrela!
 
 **© 2025 Robert Bueno — Desenvolvedor Full Stack .NET**  
-*Código é poesia, debugar é filosofia.*
+*Código é poesia, debugar é filosofia. vai tomando.*
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=robertBueno7777.robertBueno7777&left_color=00FF41&right_color=0D1117" alt="Visitor Badge" style="border-radius: 15px;">
 
