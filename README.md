@@ -1,5 +1,6 @@
 <!-- BANNER PRINCIPAL COM EFEITO CYBERPUNK -->
 <div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
