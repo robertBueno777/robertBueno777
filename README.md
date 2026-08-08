@@ -12,7 +12,7 @@
 ║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝    ╚═╝  ╚═╝ ╚═╝   ║
 ║                                                                           ║
 ║                     > INICIALIZANDO SISTEMA NEURAL...                     ║
-║                     > STATUS: OPERACIONAL ✅                            ║
+║                     > STATUS: OPERACIONAL ✔                               ║
 ║                     > CARREGANDO PROTOCOLOS DE DESENVOLVIMENTO...         ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
@@ -205,25 +205,25 @@ robert@system:~$ echo "Meus objetivos para 2026..."
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 45%    │
+│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 45%│
 │                                                             │
-│ ✨ Aprofundar em Arquitetura de Software Avançada           │
+│ ✨ Aprofundar em Arquitetura de Software Avançada          │
 │    └─ Microserviços, Event-Driven Architecture, DDD         │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 60%    │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 60%│
 │                                                             │
 │ 🔒 Dominar Segurança e Performance em APIs                 │
-│    └─ OAuth2, JWT, Caching, Load Balancing                 │
+│    └─ OAuth2, JWT, Caching, Load Balancing                  │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░ 70%    │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░ 70%│
 │                                                             │
 │ 🐳 Explorar Containerização e Orquestração                 │
-│    └─ Docker, Kubernetes, CI/CD Pipelines                  │
+│    └─ Docker, Kubernetes, CI/CD Pipelines                   │
 │                                                             │
-│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%│
+│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%│
 │                                                             │
 │ 🌐 Contribuir em Projetos Open Source                      │
-│    └─ Demonstrar expertise e expandir network              │
+│    └─ Demonstrar expertise e expandir network               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -381,10 +381,6 @@ Em produção
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="https://wa.me/5567998712777">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
 </div>
 
 <br>
@@ -413,12 +409,8 @@ Construindo o futuro, um commit por vez. 🚀
 ### ⭐ Se meu perfil foi útil, deixe uma estrela!
 
 **© 2025 Robert Bueno — Desenvolvedor Full Stack .NET**  
-*Código é poesia, debugar é filosofia.*
+*Código é poesia, debugar é filosofia. vai tomando.*
 
 <br>
-
-![](https://img.shields.io/badge/Made%20with%20💚%20by%20Robert%20Bueno-000000?style=flat)
-![](https://img.shields.io/badge/Status-Always%20Improving%20📈-00FF41?style=flat)
-![](https://img.shields.io/badge/Last%20Update-2025-00FF41?style=flat)
 
 </div>
