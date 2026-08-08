@@ -1,5 +1,5 @@
 <!-- BANNER PRINCIPAL COM EFEITO CYBERPUNK -->
-<div align="center"> 
+<div align="center">
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
@@ -15,12 +15,9 @@
 ║                     > CARREGANDO PROTOCOLOS DE DESENVOLVIMENTO...         ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
-``` 
-  
-<img src="https://readme-typing-svg.herokuapp.comfont=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=t
-rue&width=900&height=100&lines=Desenvolvedor+.NET+|+Engenheiro+de+Software;Arquitetura+Clean+Code+|+APIs+REST+Escaláve
-is;Passion+for+Code+Excellence+⚡" alt="Typing Animation">
-
+```
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&width=900&height=100&lines=Desenvolvedor+.NET+|+Engenheiro+de+Software;Arquitetura+Clean+Code+|+APIs+REST+Escaláveis;Passion+for+Code+Excellence+⚡" alt="Typing Animation">
 </div>
 
 <br>
