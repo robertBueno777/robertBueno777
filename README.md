@@ -12,13 +12,11 @@
 ║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝    ╚═╝  ╚═╝ ╚═╝   ║
 ║                                                                           ║
 ║                     > INICIALIZANDO SISTEMA NEURAL...                     ║
-║                     > STATUS: OPERACIONAL                                 ║
+║                     > STATUS: OPERACIONAL ✅                            ║
 ║                     > CARREGANDO PROTOCOLOS DE DESENVOLVIMENTO...         ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&width=900&height=100&lines=Desenvolvedor+.NET+|+Engenheiro+de+Software;Arquitetura+Clean+Code+|+APIs+REST+Escaláveis;Passion+for+Code+Excellence+⚡" alt="Typing Animation">
 
 </div>
 
@@ -44,7 +42,7 @@ robert@system:~$ whoami
 <br>
 
 ```
-robert@system:~$ cat objectives.txt
+robert@system:~$ cat contact.txt
 ```
 
 <table align="center">
@@ -129,8 +127,8 @@ Uniderp (2027)
 <br><strong>Bootstrap</strong>
 </td>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=regex" width="64" alt="Regex"/>
-<br><strong>Regex</strong>
+<img src="https://skillicons.dev/icons?i=vscode" width="64" alt="VS Code"/>
+<br><strong>VS Code</strong>
 </td>
 </tr>
 </table>
@@ -170,7 +168,7 @@ robert@system:~$ cat experience.log
 
 ### 📊 Projeto SEFAZ | Desenvolvimento Full Stack
 
-**Período**: 2024 - Presente | **Status**: ✅ Ativo
+**Período**: 2024 - Presente | **Status**: ✅ Ativo | **Versão**: 1.2.0
 
 <div align="center">
 
@@ -207,25 +205,25 @@ robert@system:~$ echo "Meus objetivos para 2026..."
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 45%│
+│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 45%    │
 │                                                             │
-│ ✨ Aprofundar em Arquitetura de Software Avançada           | 
+│ ✨ Aprofundar em Arquitetura de Software Avançada           │
 │    └─ Microserviços, Event-Driven Architecture, DDD         │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░ 60%   │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 60%    │
 │                                                             │
 │ 🔒 Dominar Segurança e Performance em APIs                 │
-│    └─ OAuth2, JWT, Caching, Load Balancing                  │
+│    └─ OAuth2, JWT, Caching, Load Balancing                 │
 │                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░  70%  │
+│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░ 70%    │
 │                                                             │
 │ 🐳 Explorar Containerização e Orquestração                 │
-│    └─ Docker, Kubernetes, CI/CD Pipelines                   │
+│    └─ Docker, Kubernetes, CI/CD Pipelines                  │
 │                                                             │
-│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%  │
+│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%│
 │                                                             │
 │ 🌐 Contribuir em Projetos Open Source                      │
-│    └─ Demonstrar expertise e expandir network               │
+│    └─ Demonstrar expertise e expandir network              │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -234,27 +232,45 @@ robert@system:~$ echo "Meus objetivos para 2026..."
 
 ---
 
-<!-- ESTATÍSTICAS GITHUB -->
+<!-- ESTATÍSTICAS -->
 <div align="center">
 
-## 📊 ESTATÍSTICAS & ANALYTICS
+## 📊 ESTATÍSTICAS & MÉTRICAS
 
 </div>
 
 ```
-robert@system:~$ git log --graph --oneline
+robert@system:~$ git stats --summary
 ```
 
 <table align="center">
 <tr>
 <td align="center">
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=robertBueno7777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats">
+**Repositórios Públicos**  
+<h3>12+</h3>
+Projetos em destaque
 
 </td>
 <td align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertBueno7777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF" alt="Top Languages">
+**Linguagens Principais**  
+<h3>5+</h3>
+C#, JS, HTML, CSS, SQL
+
+</td>
+<td align="center">
+
+**Contribuições Totais**  
+<h3>400+</h3>
+Neste ano
+
+</td>
+<td align="center">
+
+**Projetos Completos**  
+<h3>8+</h3>
+Em produção
 
 </td>
 </tr>
@@ -262,66 +278,69 @@ robert@system:~$ git log --graph --oneline
 
 <br>
 
+### 📈 HABILIDADES EM PROGRESSO
+
 <table align="center">
 <tr>
 <td align="center">
 
-<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=robertBueno7777&theme=dracula&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=00FF41" alt="Activity Graph">
+**C# & .NET**  
+████████░░ 80%
+
+</td>
+<td align="center">
+
+**SQL Server**  
+███████░░░ 70%
+
+</td>
+<td align="center">
+
+**Frontend**  
+██████░░░░ 60%
+
+</td>
+<td align="center">
+
+**Arquitetura**  
+██████░░░░ 60%
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Docker/K8s**  
+███░░░░░░░ 30%
+
+</td>
+<td align="center">
+
+**Cloud**  
+██░░░░░░░░ 20%
+
+</td>
+<td align="center">
+
+**DevOps**  
+████░░░░░░ 40%
+
+</td>
+<td align="center">
+
+**Security**  
+████░░░░░░ 40%
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertBueno7777&theme=radical" alt="Profile Summary">
-
-<br>
-
-<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertBueno7777&theme=radical" alt="Repos per Language">
-
-<br>
-
-<img width="800" src="https://streak-stats.demolab.com?user=robertBueno7777&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak">
-
-<br>
-
 ---
 
-<!-- GITHUB TROPHIES -->
+<!-- BADGES -->
 <div align="center">
 
-## 🏅 CONQUISTAS
-
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=robertBueno7777&theme=radical&no-frame=true&column=7" alt="Trophies" width="100%">
-
-<br>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-## 🐍 CONTRIBUIÇÕES
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertBueno7777/robertBueno7777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertBueno7777/robertBueno7777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertBueno7777/robertBueno7777/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br>
-
----
-
-<!-- BADGES BADGES BADGES -->
-<div align="center">
-
-## 🛡️ CERTIFICAÇÕES & BADGES
+## 🏅 BADGES & STATUS
 
 </div>
 
@@ -358,15 +377,15 @@ robert@system:~$ git log --graph --oneline
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/robertBueno777">
+<a href="https://github.com/robertBueno7777">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<a href="https://wa.me/5567998712777">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 </div>
-
-<br>
-
----
 
 <br>
 
@@ -394,18 +413,12 @@ Construindo o futuro, um commit por vez. 🚀
 ### ⭐ Se meu perfil foi útil, deixe uma estrela!
 
 **© 2025 Robert Bueno — Desenvolvedor Full Stack .NET**  
-*Código é poesia, debugar é filosofia. vai tomando.*
+*Código é poesia, debugar é filosofia.*
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=robertBueno7777.robertBueno7777&left_color=00FF41&right_color=0D1117" alt="Visitor Badge" style="border-radius: 15px;">
-
-</div>
-
----
-
-<!-- FOOTER COM ANIMAÇÃO -->
-<div align="center">
+<br>
 
 ![](https://img.shields.io/badge/Made%20with%20💚%20by%20Robert%20Bueno-000000?style=flat)
 ![](https://img.shields.io/badge/Status-Always%20Improving%20📈-00FF41?style=flat)
+![](https://img.shields.io/badge/Last%20Update-2025-00FF41?style=flat)
 
 </div>
