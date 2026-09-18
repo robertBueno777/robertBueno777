@@ -2,20 +2,6 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗     █████╗  ██╗   ║
-║   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║    ██╔══██╗ ██║   ║
-║   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║    ███████║ ██║   ║
-║   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║    ██╔══██║ ██║   ║
-║   ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║    ██║  ██║ ██║   ║
-║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝    ╚═╝  ╚═╝ ╚═╝   ║
-║                                                                           ║
-║                     > INICIALIZANDO SISTEMA NEURAL...                     ║
-║                     > STATUS: OPERACIONAL                                 ║
-║                     > CARREGANDO PROTOCOLOS DE DESENVOLVIMENTO...         ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
 ```
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&width=900&height=100&lines=Desenvolvedor+.NET+|+Engenheiro+de+Software;Arquitetura+Clean+Code+|+APIs+REST+Escaláveis;Passion+for+Code+Excellence+⚡" alt="Typing Animation">
@@ -199,37 +185,8 @@ robert@system:~$ cat experience.log
 </div>
 
 ```
-robert@system:~$ echo "Meus objetivos para 2026..."
-```
-
-<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ [▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 45%│
-│                                                             │
-│ ✨ Aprofundar em Arquitetura de Software Avançada          │
-│    └─ Microserviços, Event-Driven Architecture, DDD         │
-│                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 60%│
-│                                                             │
-│ 🔒 Dominar Segurança e Performance em APIs                 │
-│    └─ OAuth2, JWT, Caching, Load Balancing                  │
-│                                                             │
-│ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░ 70%│
-│                                                             │
-│ 🐳 Explorar Containerização e Orquestração                 │
-│    └─ Docker, Kubernetes, CI/CD Pipelines                   │
-│                                                             │
-│ [▰▰▰▰▰░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%│
-│                                                             │
-│ 🌐 Contribuir em Projetos Open Source                      │
-│    └─ Demonstrar expertise e expandir network               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -279,62 +236,6 @@ Em produção
 
 <br>
 
-### 📈 HABILIDADES EM PROGRESSO
-
-<table align="center">
-<tr>
-<td align="center">
-
-**C# & .NET**  
-████████░░ 80%
-
-</td>
-<td align="center">
-
-**SQL Server**  
-███████░░░ 70%
-
-</td>
-<td align="center">
-
-**Frontend**  
-██████░░░░ 60%
-
-</td>
-<td align="center">
-
-**Arquitetura**  
-██████░░░░ 60%
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Docker/K8s**  
-███░░░░░░░ 30%
-
-</td>
-<td align="center">
-
-**Cloud**  
-██░░░░░░░░ 20%
-
-</td>
-<td align="center">
-
-**DevOps**  
-████░░░░░░ 40%
-
-</td>
-<td align="center">
-
-**Security**  
-████░░░░░░ 40%
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -391,19 +292,6 @@ Em produção
 <!-- RODAPÉ -->
 <div align="center">
 
-```
-robert@system:~$ ./motivate.sh
-████████████████████████████████████████ 100%
-
-┌────────────────────────────────────────┐
-│  SISTEMA DE DESENVOLVIMENTO ATIVO      │
-│  STATUS: OPERACIONAL E EVOLUINDO       │
-│  MISSÃO: CÓDIGO DE EXCELÊNCIA          │
-│  VISÃO: ARQUITETURA ESCALÁVEL          │
-└────────────────────────────────────────┘
-
-Construindo o futuro, um commit por vez. 🚀
-```
 
 <br>
 
