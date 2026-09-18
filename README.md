@@ -177,17 +177,6 @@ robert@system:~$ cat experience.log
 
 ---
 
-<!-- OBJETIVOS ATUAIS -->
-<div align="center">
-
-## 🎯 OBJETIVOS ATUAIS
-
-</div>
-
-```
-
-```
-
 ---
 
 <!-- ESTATÍSTICAS -->
